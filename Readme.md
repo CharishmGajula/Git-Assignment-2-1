@@ -124,3 +124,10 @@ index 134a765..293ab87 100644
 # pushing the repository into github
 
 git push -u origin master
+
+
+
+# created another branch feature1
+ git checkout -b feature1
+
+ 
