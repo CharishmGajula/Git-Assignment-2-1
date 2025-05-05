@@ -88,6 +88,9 @@ Date:   Mon May 5 13:50:54 2025 +0530
 
     initial commit
 
+<img width="960" alt="assignment 1" src="https://github.com/user-attachments/assets/1de1fafe-ce6d-47bc-821d-5b00fef0b245" />
+
+
 # getting the difference of the lines from one commit to other
 
 git diff 86380f5a30de5a50c4210949e8830d995276bef2 f5e1272c920f7305ce7b65b0631c69f4c8bdd4fb
@@ -119,6 +122,10 @@ index 134a765..293ab87 100644
 +My roll number is 12e4
 +About to learn.
  My roll number is 1234
+
+
+ <img width="960" alt="assignment 1 git diff" src="https://github.com/user-attachments/assets/b425d7c8-5112-4209-a565-674d024c9403" />
+
 
 
 # pushing the repository into github
