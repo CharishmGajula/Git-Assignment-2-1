@@ -130,4 +130,8 @@ git push -u origin master
 # created another branch feature1
  git checkout -b feature1
 
+
+# pull request succesfull
+<img width="934" alt="image" src="https://github.com/user-attachments/assets/598805b3-bd60-4f28-998a-e14e48ab4c91" />
+
  
